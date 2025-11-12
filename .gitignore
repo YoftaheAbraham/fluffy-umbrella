@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.env
+*.user
+*.db
+*.log
+logs/
+node_modules/
+publish/

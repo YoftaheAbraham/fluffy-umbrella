@@ -1,0 +1,6 @@
+@fluffy_umbrella_HostAddress = http://localhost:5103
+
+GET {{fluffy_umbrella_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
